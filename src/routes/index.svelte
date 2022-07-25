@@ -70,6 +70,7 @@
 			padding: 1em 0;
 			width: 100%;
 			outline: none;
+			background: white;
 		}
 		input[type='search']::placeholder {
 			color: #222;
